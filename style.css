@@ -1,0 +1,235 @@
+html,
+body {
+  height: 100%;
+  background-color: #000000;
+}
+
+body {
+  width: 100%;
+}
+
+.header {
+  color: white;
+  font-size: 50px;
+}
+
+.section {
+  height: 50%;
+  background: #293744;
+  color: #899eb5;
+}
+
+.scene {
+  height: 100%;
+  width: 100%;
+  background: #000000;
+}
+
+.center {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+          align-items: center;
+  height: 100%;
+}
+
+.viewer {
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1313px;
+  width: 100%;
+  background-image: url(http://mrcreative.co.uk/spritesheet.png);
+  background-repeat: no-repeat;
+  background-position: 0 50%;
+}
+
+.viewer.frame1 {
+  background-position: -1313px 50%;
+}
+
+.viewer.frame2 {
+  background-position: -2626px 50%;
+}
+
+.viewer.frame3 {
+  background-position: -3939px 50%;
+}
+
+.viewer.frame4 {
+  background-position: -5252px 50%;
+}
+
+.viewer.frame5 {
+  background-position: -6565px 50%;
+}
+
+.viewer.frame6 {
+  background-position: -7878px 50%;
+}
+
+.viewer.frame7 {
+  background-position: -9191px 50%;
+}
+
+.viewer.frame8 {
+  background-position: -10504px 50%;
+}
+
+.viewer.frame9 {
+  background-position: -11817px 50%;
+}
+
+.viewer.frame10 {
+  background-position: -13130px 50%;
+}
+
+.viewer.frame11 {
+  background-position: -14443px 50%;
+}
+
+.viewer.frame12 {
+  background-position: -15756px 50%;
+}
+
+.viewer.frame13 {
+  background-position: -17069px 50%;
+}
+
+.viewer.frame14 {
+  background-position: -18382px 50%;
+}
+
+.viewer.frame15 {
+  background-position: -19695px 50%;
+}
+
+.viewer.frame16 {
+  background-position: -21008px 50%;
+}
+
+.viewer.frame17 {
+  background-position: -22321px 50%;
+}
+
+.viewer.frame18 {
+  background-position: -23634px 50%;
+}
+
+.viewer.frame19 {
+  background-position: -24947px 50%;
+}
+
+.viewer.frame20 {
+  background-position: -26260px 50%;
+}
+
+.viewer.frame21 {
+  background-position: -27573px 50%;
+}
+
+.viewer.frame22 {
+  background-position: -28886px 50%;
+}
+
+.viewer.frame23 {
+  background-position: -30199px 50%;
+}
+
+.viewer.frame24 {
+  background-position: -31512px 50%;
+}
+
+.viewer.frame25 {
+  background-position: -32825px 50%;
+}
+
+.viewer.frame26 {
+  background-position: -34138px 50%;
+}
+
+.viewer.frame27 {
+  background-position: -35451px 50%;
+}
+
+.viewer.frame28 {
+  background-position: -36764px 50%;
+}
+
+.viewer.frame29 {
+  background-position: -38077px 50%;
+}
+
+.viewer.frame30 {
+  background-position: -39390px 50%;
+}
+
+.viewer.frame31 {
+  background-position: -40703px 50%;
+}
+
+.viewer.frame32 {
+  background-position: -42016px 50%;
+}
+
+.viewer.frame33 {
+  background-position: -43329px 50%;
+}
+
+.viewer.frame34 {
+  background-position: -44642px 50%;
+}
+
+.viewer.frame35 {
+  background-position: -45955px 50%;
+}
+
+.viewer.frame36 {
+  background-position: -47268px 50%;
+}
+
+.viewer.frame37 {
+  background-position: -48581px 50%;
+}
+
+.viewer.frame38 {
+  background-position: -49894px 50%;
+}
+
+.viewer.frame39 {
+  background-position: -51207px 50%;
+}
+
+.viewer.frame40 {
+  background-position: -52520px 50%;
+}
+
+.viewer.frame41 {
+  background-position: -53833px 50%;
+}
+
+.viewer.frame42 {
+  background-position: -55146px 50%;
+}
+
+.viewer.frame43 {
+  background-position: -56459px 50%;
+}
+
+.viewer.frame44 {
+  background-position: -57772px 50%;
+}
+
+@-webkit-keyframes drink-coffee {
+  to {
+    background-position: -1800px 50%;
+  }
+}
+
+@keyframes drink-coffee {
+  to {
+    background-position: -1800px 50%;
+  }
+}
