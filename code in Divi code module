@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel="stylesheet" href="http://mrcreative.co.uk/css/style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<section class="scene section" id="sticky" style="postion: relative; top: 0px">
+  <div class="viewer"></div>
+</section>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/debug.addIndicators.min.js'></script><script  src="http://mrcreative.co.uk/js/script.js"></script>
+
+</body>
+</html>
